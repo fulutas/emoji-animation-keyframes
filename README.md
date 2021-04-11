@@ -1,0 +1,1 @@
+# Example Emoji Animation Keyframes
